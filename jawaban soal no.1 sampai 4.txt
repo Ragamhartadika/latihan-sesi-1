@@ -1,0 +1,10 @@
+jawaban soal 1 -4
+
+1. perbedaan adalah ketika kita menggunakan compiler kode sumber akan konversi menjadi machinecode ( membuat berkas  executable) sebelum program tersebut dijalankan  sedangkan interpreter mengoversi  sour code  menjadi machine code secara
+langsung ketika program di jalankan
+
+2. bahasa pemrogaman c++ adalah bahasa yang bisa di gunakan untuk membuat berbagai aplikasi contohnya pengolah gambar, software gadget game hingga sistem operasi
+
+3. bahasa pemrogaman ini digunakan untuk segala hal mulai dari membangun sistem operasi hingga membuat video game dan membuat film 3D meskipun memiliki kurva belajar yang lebih curam dari pada yang lain, c++ memiliki potensi yang luar biasa
+
+4. bahasa pemrogaman c++ berkomunikasi dengan hardware lewat compiler. code akan di compile menjadi bahasa yang di mengerti mesin
